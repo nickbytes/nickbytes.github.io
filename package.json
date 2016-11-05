@@ -5,6 +5,7 @@
   "author": "Brent Jackson",
   "license": "MIT",
   "dependencies": {
+    "ace-css": "^1.1.0",
     "basscss": "^7.1.0",
     "basscss-align": "latest",
     "basscss-background-colors": "latest",
@@ -32,6 +33,7 @@
     "basscss-positions": "latest",
     "basscss-progress": "latest",
     "basscss-responsive-states": "latest",
+    "basscss-responsive-type-scale": "^1.0.1",
     "basscss-responsive-white-space": "latest",
     "basscss-table-object": "latest",
     "basscss-type-scale": "latest",
